@@ -757,8 +757,7 @@ function Home() {
       </div>
     </div>
   </div>
-  {/*[if lte IE 9]><![endif]*/}
-</>
+
               </a>
               {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
             </p>
